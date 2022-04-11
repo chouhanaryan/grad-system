@@ -2,7 +2,6 @@
 # Built using Spring and Angular
 Accolite-MS Project
 
-JAY SHAH
 Website Pictures:
 
 Login
